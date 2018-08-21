@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">volleydemo</string>
+    <string name="json_request">JsonRequest</string>
+    <string name="json_array_request">Json Array Request</string>
+    <string name="string_request">String Request</string>
+    <string name="post_param_request">Post Pram Request</string>
+    <string name="header_request">Add Headers</string>
+    <string name="image_request">Image Request</string>
+    <string name="image_load">Image Load</string>
+</resources>
